@@ -3,9 +3,11 @@ RENCANA KONTEN FD
 - html
   *css
   *Framework html
-    ^ Header
-    ^ Design
+   ^ Web
+   ^ Design
+-Struktur Data Dasar
 - PHP Frameworks
-  ^ Header
+  ^ Laravel
 - Interview
 - Vlogs
+- Pyton
