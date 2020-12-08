@@ -1,0 +1,4 @@
+FD RESOLUSI
+- Membuat sistem informasi toko buku c&c prima media sangatta
+- Membuat web yang dapat diakses oleh siapapun
+- Membuat forum diskusi
